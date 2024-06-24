@@ -1,0 +1,60 @@
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css');
+@import url('https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css');
+
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f8f9fa;
+    color: #343a40;
+}
+
+.header {
+    font-family: 'Georgia', serif;
+    color: #4d8c57;
+    margin-bottom: 20px;
+}
+
+.sidebar {
+    font-family: 'Arial', sans-serif;
+    color: #6c757d;
+    margin-bottom: 20px;
+}
+
+.btn {
+    background-color: #4d8c57;
+    color: white;
+    border-radius: 5px;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    margin-bottom: 10px;
+}
+
+.btn:hover {
+    background-color: #3e6f46;
+}
+
+.form-input {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+}
+
+.lottie_animation {
+    margin-bottom: 20px;
+}
+
+.container {
+    padding: 20px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #4d8c57;
+    margin-bottom: 20px;
+}
+
+p, ul, ol {
+    margin-bottom: 20px;
+}
